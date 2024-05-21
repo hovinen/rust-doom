@@ -14,7 +14,7 @@ engine = { path = "engine" }
 game = { path = "game" }
 math = { path = "math" }
 
-env_logger = "0.10.1"
+env_logger = "0.11.3"
 structopt = "0.3.21"
 failure = "0.1.8"
 
